@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="back" format="reference"/>
+    <attr name="fore" format="reference"/>
+    <attr name="styleButton" format="reference"/>
+    <attr name="tw" format="reference"/>
+</resources>
